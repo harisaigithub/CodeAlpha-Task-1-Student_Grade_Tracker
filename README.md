@@ -37,8 +37,12 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-A big thank you to my mentors and peers for their support throughout this journey. 🚀
+A big thank you to my mentors and peers for their support throughout this journey.🚀
 
 #StudentGradeTracker #JavaProgramming #WebDevelopment #CodeAlpha #ProjectCompletion #LearningByDoing #ProudMoment #HTML #CSS #JavaScript #GitHub
 
 ## Output video
+
+
+https://github.com/harisaigithub/CodeAlpha-Task-1-Student_Grade_Tracker/assets/114827365/6d5f974e-0901-481a-a84b-93f73df7dfdd
+
